@@ -1,6 +1,4 @@
-# Backward_AABW
-
-
+## Backward_AABW
 
 Evaluate ocean drivers of 2021 sea ice anomalies for Will ;) All aspects of the project are tracked through issues. Create an issue to represent each small task. Issues will develop to include discussion of analysis methods and figures associated with each task.
 
